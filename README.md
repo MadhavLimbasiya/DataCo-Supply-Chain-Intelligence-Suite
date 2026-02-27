@@ -1,4 +1,4 @@
-# DataCo-Supply-Chain-Intelligence-Suite# DataCo Supply Chain Intelligence Suite
+# DataCo Supply Chain Intelligence Suite
 
 📊 **Interactive Dashboard Link:** https://public.tableau.com/app/profile/madhav.limbasiya/viz/DataCoSupplyChainIntelligenceSuite/01_Performance_Pulse#1
 
